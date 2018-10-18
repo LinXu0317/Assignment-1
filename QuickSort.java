@@ -2,6 +2,12 @@ import java.util.Arrays;
 
 public class QuickSort  {
 
+	/**
+	* From quick sort method
+	*
+	*
+	*/
+
 
 	public static void sort(int[] a, int left, int right) {
 		if (left < right) {
